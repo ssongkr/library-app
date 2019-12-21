@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "roomId": "1",
+            "displayName": "스터디룸(7층)",
+            "reservationer": "잉잉잉"
+        },
+        {
+            "roomId": "5",
+            "displayName": "스터디룸(7층)",
+            "reservationer": "잉잉2"
+        },
+        {
+            "roomId": "10",
+            "displayName": "스터디룸(7층)",
+            "reservationer": "잉잉3"
+        },
+        {
+            "roomId": "18",
+            "displayName": "스터디룸(4층)",
+            "reservationer": "잉잉4"
+        }
+    ],
+    "kind": "Studyuroom"
+}
